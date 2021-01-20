@@ -10,6 +10,7 @@ public class SubStringPalindrromEvenOddLength {
 
 	private static void checkLength(String str) {
 
+		
 		int even = 0;
 		int odd = 0;
 		for (int i = 0; i < str.length(); i++) {
