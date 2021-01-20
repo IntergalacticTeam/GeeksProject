@@ -14,6 +14,7 @@ public class AllSubString {
 				System.out.println(str.substring(i,j));
 			}
 		}
+		
 
 	}
 
