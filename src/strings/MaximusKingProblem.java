@@ -2,6 +2,11 @@ package strings;
 
 import java.util.Arrays;
 
+/**
+Viking army
+Maximus was the king of his city,
+
+*/
 public class MaximusKingProblem {
 
 	public static void main(String[] args) {
